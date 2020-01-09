@@ -19,7 +19,7 @@ Having a mentor to guide you through your ML journey is the best gift you can ev
 
 To answer your question, “best way/place to learn Machine Learning?”. According to me, the best way/place is the one which encourages you to “try things on your own” and provides you “a mentor” to guide you through.
 
-(Ai Adventures)[www.aiadventures.in] is an amazing place to learn. We provide you with everything you will ever need for Machine Learning. Ai Adventures is basically a ML company, building products and providing ML solutions to businesses. Along with this, we also train people in Machine Learning, Deep Learning and Data Science.
+[Ai Adventures](www.aiadventures.in) is an amazing place to learn. We provide you with everything you will ever need for Machine Learning. Ai Adventures is basically a ML company, building products and providing ML solutions to businesses. Along with this, we also train people in Machine Learning, Deep Learning and Data Science.
 
 The special thing about our training program is that, we don’t spoon feed you. Instead, we provide you with resources (like jupyter notebooks, blogs, videos), a schedule (based on your learning style) and a mentor to guide you. You can learn things at your own pace, ask doubts and get them clarified personally. Not just this, you can also develop projects and get an internship certificate as well.
 
