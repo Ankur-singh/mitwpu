@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Prerequisites', link: '/prerequisites'}
   - {name: 'Resources', link: '/resources'}
-  # - {name: 'Roadmap', link: '/roadmap'}
+  - {name: 'Roadmap', link: '/roadmap'}
   - {name: 'Rankings', link: '/rankings'}
   # - {name: 'News', link: '/news'}
   # - {name: 'Pipeline', link: '/pipeline'}
