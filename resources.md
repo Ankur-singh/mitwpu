@@ -30,7 +30,7 @@ published: True
 - [Solutions Quiz 2]({{ site.sol_quiz_2 }})
 - [Solutions Assignment 2]({{ site.sol_assignment_2 }})
 
-<!-->
+<!--
 - [Homework]({{ site.homework }}) 
 -->
 
