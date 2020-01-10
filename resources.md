@@ -15,9 +15,8 @@ published: True
 - [Quiz 1]({{ site.quiz_1 }})
 - Deadline:- {{ site.quiz_1_deadline }} ({{ site.quiz_1_time }})
 
-<!-- 
 - [Solutions Quiz 1]({{ site.sol_quiz_1 }}) 
--->
+
 
 *** 
 
@@ -27,11 +26,10 @@ published: True
 - [Assignment 2]({{ site.assignment_2 }})
 - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }})
 
-<!-- 
+
 - [Solutions Quiz 2]({{ site.sol_quiz_2 }})
 - [Solutions Assignment 2]({{ site.sol_assignment_2 }})
 - [Homework]({{ site.homework }}) 
--->
 
 *** 
 
