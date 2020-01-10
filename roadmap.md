@@ -45,7 +45,7 @@ To get regular updated about all these events, make sure you follow us on Instag
 
 ## Review us on [Google](https://www.google.com/search?q=ai+adventures&oq=ai+adventures&aqs=chrome..69i57j69i60l5j69i65l2.2637j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3bc2c1c306f6c64b:0xb91b6926e45c787f,3,,,)
 
-I you love what we are doing, make sure to write a review on google. This will help us reach out to more people & on top of all this, your reviews means a lot to us, because they "keep they 🔥 burning".
+If you love what we are doing, make sure to write a review on google. This will help us reach out to more people & on top of all this, your reviews means a lot to us, because "they keep the 🔥 burning".
 
 <!-- 1. Your certificate
 <img src='{{ site.baseurl }}/assets/img/Roadmap/certificate.png' style='display: block; margin-left: auto; margin-right: auto; width: 85%; height: 85%;'> -->
