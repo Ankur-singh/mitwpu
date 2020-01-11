@@ -42,10 +42,9 @@ published: True
 - [Assignment 3]({{ site.assignment_3 }})
 - Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }})
 
-<!-- 
+
 - [Solutions Quiz 3]({{ site.sol_quiz_3 }})
 - [Solutions Assignment 3]({{ site.sol_assignment_3 }}) 
--->
 
 ***
 
@@ -55,10 +54,9 @@ published: True
 - [Assignment 4]({{ site.assignment_4 }})
 - Deadline:- {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }})
 
-<!-- 
+
 - [Solutions Quiz 4]({{ site.sol_quiz_4 }})
 - [Solutions Assignment 4]({{ site.sol_assignment_4 }}) 
--->
 
 ***
 
@@ -67,8 +65,7 @@ published: True
 - [Missionaries and cannibals]({{site.project_1}})
 - [Frog leap]({{site.project_2}})
 
-<!-- 
+
 #### Solutions
 - [Solutions Missionaries and cannibals]({{site.sol_project_1}})
 - [Solutions Frog leap]({{site.sol_project_2}}) 
--->
