@@ -11,7 +11,7 @@ published: True
 <!-- <h2 style="text-align: center;">Resources will be available once the course begins!</h2> -->
 
 #### Notebooks
-- [01_intro](https://nbviewer.jupyter.org/github/Ai-Adventures/rmd/blob/master/notebooks/01_intro.ipynb?flush_cache=True)
+- [01_intro](https://nbviewer.jupyter.org/github/Ai-Adventures/rmd/blob/master/notebooks/01_intro.ipynb?flush_cache=true)
 
 
 ***
