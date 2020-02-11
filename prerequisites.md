@@ -20,6 +20,32 @@ Ensure that you install Python 3.7 and <b>NOT</b> Python 2.7.
 [Windows](https://docs.anaconda.com/anaconda/install/windows/) &emsp; [Linux](https://docs.anaconda.com/anaconda/install/linux/) &emsp; [MacOS](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 <br>
+
+#### Keras and it's dependecies
+
+You need to have following packages installed to have a wonderful experience:
+- numpy
+- scipy
+- pillow
+- keras
+- h5py
+
+##### Using `pip`
+```console
+$ pip install numpy scipy 
+$ pip install h5py
+$ pip install pillow
+$ sudo pip install keras
+```
+
+##### Using `conda` 
+```console
+$ conda install h5py
+$ conda install pillow
+$ conda install keras
+```
+**Note:** Please try importing `keras` and other packages to make sure they are installed properly.
+
 <span style='color:red'>
-Please install anaconda before coming to the session. Any problems faced while installing
+Please install anaconda and keras before coming to the session. If you face any problems while installing, contact volunteers for help.
 </span> 

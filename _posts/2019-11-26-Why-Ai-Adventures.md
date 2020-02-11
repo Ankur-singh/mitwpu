@@ -48,12 +48,10 @@ We encourage you to try things on your own. We also provide a mentor to pay pers
 ### Course target
 
 No matter what your background, we are confident that you can learn & become a Data Scientist!
-- **Complete beginner to programming:** The course material is a perfect fit for you :). The material starts with the fundamentals of programming. Python is a great language to learn as your first language because of its simple learning curve so you have made the right decision choosing it!
-- **Familiarity with ML/DL concepts:** You will learn to translate concepts/idea to code. Theory is not enough to solve real-world problems, we will help you understand the practical aspects of ML/DL projects. 
-- **Used ML/DL frameworks before:** Shoot for the moon! See if you can get yourself to the top of the leaderboard. Make full use of this opportunity by attending the use cases, ask a lot of questions and interact with us; to learn the best practices in the industry.
+- **Complete beginner to programming?** The course material is a perfect fit for you :). The material starts with the fundamentals of programming. Python is a great language to learn as your first language because of its simple learning curve so you have made the right decision choosing it!
+- **Familiarity with ML/DL concepts?** You will learn to translate concepts/idea to code. Theory is not enough to solve real-world problems, we will help you understand the practical aspects of ML/DL projects. 
+- **Used ML/DL frameworks before?** Shoot for the moon! See if you can get yourself to the top of the competition leaderboards. Make full use of this opportunity by attending the use cases, ask a lot of questions and interact with us; to learn the best practices in the industry.
 
-
-<!--
 ***
 
 ### What else?
@@ -65,6 +63,7 @@ No matter what your background, we are confident that you can learn & become a D
 You can find more about him <a href='https://ankur-singh.github.io'>here</a>.<br>
 </p> 
 
+<!--
 <h3 style='text-align:center;'> Write feedback</h3>
 <img src='{{ site.baseurl }}/assets/img/GettingStarted/feedback.jpg' style='display: block; margin-left: auto; margin-right: auto; width: 60%; height: 60%;'>
 <p style='text-align:center;'>Read feedback from past batches or write your own!</p><br>
@@ -76,7 +75,6 @@ You can find more about him <a href='https://ankur-singh.github.io'>here</a>.<br
 <h3 style='text-align:center;'>Spread the word</h3>
 <img src='{{ site.baseurl }}/assets/img/GettingStarted/pranjal_linkedin.png' style='display: block; margin-left: auto; margin-right: auto; width: 70%; height: 70%;'/>
 <p style='text-align:center;'>Like what you see? Make sure to spread the word about this course on social media. You can find posts made by people from past batches <a href='https://www.linkedin.com/posts/suyashbhiste_machinelearning-deeplearning-artificialintelligence-activity-6601333533636165632-XhT6'>here</a> and <a href='https://www.linkedin.com/posts/pranjal-enchalwar-86123a166_artificialintelligence-ml-deeplearning-activity-6601425275924377600-1UTZ'>here</a>.</p>
-
 
 
 <h3 style='text-align:center;'>Students become the teachers!</h3>
