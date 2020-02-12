@@ -12,6 +12,8 @@ published: True
 
 #### Notebooks
 - [01_intro](https://nbviewer.jupyter.org/github/Ai-Adventures/rmd/blob/master/notebooks/01_intro.ipynb?flush_cache=true)
+- [02_Classification](https://nbviewer.jupyter.org/github/Ai-Adventures/rmd/blob/master/notebooks/02_Classification.ipynb?flush_cache=true)
+- [03_best_practices](https://nbviewer.jupyter.org/github/Ai-Adventures/rmd/blob/master/notebooks/03_best_practices.ipynb?flush_cache=true)
 
 
 ***
