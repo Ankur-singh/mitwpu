@@ -43,14 +43,14 @@ We encourage you to try things on your own. We also provide a mentor to pay pers
 - **Application Oriented:** The primary focus of the program is making sure that we provide individuals with knowledge that is practical. Knowledge that they can use to solve real world problems, knowledge that is not limited to books and classrooms. The complete course content is designed and curated with applications & use-cases in mind. Student will be easily able to crack Data Science interview & develop projects!
 - **Data Science use cases:** We will be discussing a lot of use cases. These use cases are a great way for you to get in the mind of a data scientist. We will also be discussing some state of the art technologies and advancements in various domains of artificial intelligence.
 
-***
-
+<!--
 ### Course target
 
 No matter what your background, we are confident that you can learn & become a Data Scientist!
 - **Complete beginner to programming?** The course material is a perfect fit for you :). The material starts with the fundamentals of programming. Python is a great language to learn as your first language because of its simple learning curve so you have made the right decision choosing it!
 - **Familiarity with ML/DL concepts?** You will learn to translate concepts/idea to code. Theory is not enough to solve real-world problems, we will help you understand the practical aspects of ML/DL projects. 
 - **Used ML/DL frameworks before?** Shoot for the moon! See if you can get yourself to the top of the competition leaderboards. Make full use of this opportunity by attending the use cases, ask a lot of questions and interact with us; to learn the best practices in the industry.
+-->
 
 ***
 
