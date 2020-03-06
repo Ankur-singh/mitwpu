@@ -5,6 +5,7 @@ permalink: /next/
 featured-img: next
 ---
 
+<!--
 ## Feedback
 
 On completion of the workshop we request you to fill our feedback form(will be shared via email). You will also receive a guide on how to do well in data science interviews. This guide will cover points like:
@@ -16,6 +17,7 @@ On completion of the workshop we request you to fill our feedback form(will be s
 - Preparing for the interview.
 - What hiring managers are looking for.
 - Interview questions.
+-->
 
 ***
 
