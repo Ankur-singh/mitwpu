@@ -25,22 +25,14 @@ published: True
 - [02 Numpy Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20.ipynb?flush_cache=true)
 <!-- - [03 Numpy Exercise Solution](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20-%20Solutions.ipynb?flush_cache=true) -->
 
-<!--- [Save you model for later](https://www.tensorflow.org/guide/keras/save_and_serialize)
-- Try experimenting with **number of hidden layers**, **number of neuron in each hidden layer** & **input size** for the **boston_housing dataset.** -->
-
-***
-
+<!---
 ##### Pandas
-<!--- [01 Basics of Numpy](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy.ipynb?flush_cache=true)
+ [01 Basics of Numpy](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy.ipynb?flush_cache=true)
 - [02 Numpy Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20.ipynb?flush_cache=true)
  - [03 Numpy Exercise Solution](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20-%20Solutions.ipynb?flush_cache=true)-->
 
-<!--#### Datasets
+<!--
+#### Datasets
 - [Boston housing price regression dataset](https://keras.io/datasets/#boston-housing-price-regression-dataset)
-- [Airfoil Self-Noise Data Set](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)-->
-
-***
-
-<!-- #### Important Links
-- [Google Colab](https://colab.research.google.com/)
-- [Tensorflow PlayGround](https://playground.tensorflow.org/)-->
+- [Airfoil Self-Noise Data Set](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
+-->
