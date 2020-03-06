@@ -19,8 +19,6 @@ On completion of the workshop we request you to fill our feedback form(will be s
 - Interview questions.
 -->
 
-***
-
 ## Follow us on [Instagram](https://www.instagram.com/aiadventures.pune/)
 
 We keep conducting a lot of free events, meetups & workshops, in our office premises. 
