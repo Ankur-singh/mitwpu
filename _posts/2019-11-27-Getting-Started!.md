@@ -6,9 +6,9 @@ featured-img: getting_started
 summary: Get acquainted with the course! 
 ---
 
-## Welcome to Deep Learning with Python!
+## Welcome to Data Science with Python!
 
-During the course of the next 3-days, we aim to get you acquainted with keras and expose you to Deep Learning. Strap in, cause it is going to be a fun ride! 
+During the course of the next 2-days, we aim to get you acquainted with numpy,pandas and expose you to Data Science. Strap in, cause it is going to be a fun ride! 
 
 ### The website
 
