@@ -11,9 +11,9 @@ published: True
 <!-- <h2 style="text-align: center;">Resources will be available once the course begins!</h2> -->
 
 #### Basics of Python 
-- [01_Intro to Python](https://https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Introduction%20to%20python.ipynb?flush_cache=true)
-- [02_Python Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises%20.ipynb?flush_cache=true)
-<!-- - [03_Python Exercise Solutions](https://https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises_Solution.ipynb?flush_cache=true)-->
+- [01 Intro to Python](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Introduction%20to%20python.ipynb?flush_cache=true)
+- [02 Python Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises%20.ipynb?flush_cache=true)
+<!-- - [03 Python Exercise Solutions](https://https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises_Solution.ipynb?flush_cache=true)-->
 
 
 ***
@@ -23,9 +23,10 @@ published: True
 ##### Numpy
 - [01 Basics of Numpy](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy.ipynb?flush_cache=true)
 - [02 Numpy Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20.ipynb?flush_cache=true)
-<!-- - [03 Numpy Exercise Solution](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20-%20Solutions.ipynb?flush_cache=true)-->
-<!-- - [Save you model for later](https://www.tensorflow.org/guide/keras/save_and_serialize)
-- Try experimenting with **number of hidden layers**, **number of neuron in each hidden layer** & **input size** for the **boston_housing dataset.**-->
+<!-- - [03 Numpy Exercise Solution](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20-%20Solutions.ipynb?flush_cache=true) -->
+
+<!--- [Save you model for later](https://www.tensorflow.org/guide/keras/save_and_serialize)
+- Try experimenting with **number of hidden layers**, **number of neuron in each hidden layer** & **input size** for the **boston_housing dataset.** -->
 
 ***
 
