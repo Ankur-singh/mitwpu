@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: Deep Learning with Python # your site title
+title: Data Science with Python # your site title
 author: AI Adventures # You :P
 description: > # Meta description of Homepage
-  Start solving real world applications by learning to build deep learning models in this 
-   4-day workshop on Deep Learning with python :)
-baseurl: "/rmd" # the subpath of your site, e.g. /blog
+  Start solving real world applications by applying Data Science in this 
+   workshop on Data Science with python :)
+baseurl: "/mitwpu" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 # SEO PLUGIN
@@ -32,7 +32,7 @@ navigation: # Navigation links
   # - {name: 'Contact', link: '/contact'}
 
 tagline:
-  Deep Learning is cool!
+  Data Science is cool!
 
 hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
