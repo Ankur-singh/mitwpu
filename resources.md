@@ -15,14 +15,14 @@ published: True
 - [02 Python Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises%20.ipynb?flush_cache=true)
 <!-- - [03 Python Exercise Solutions](https://https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Python%20Exercises_Solution.ipynb?flush_cache=true)-->
 
-
-***
-
+<!--
 #### Data Science
-
+-->
+<!--
 ##### Numpy
 - [01 Basics of Numpy](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy.ipynb?flush_cache=true)
 - [02 Numpy Exercise](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20.ipynb?flush_cache=true)
+-->
 <!-- - [03 Numpy Exercise Solution](https://nbviewer.jupyter.org/github/Ai-Adventures/mitwpu/blob/master/notebooks/Numpy%20Exercise%20-%20Solutions.ipynb?flush_cache=true) -->
 
 <!---
