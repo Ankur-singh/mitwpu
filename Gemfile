@@ -6,3 +6,4 @@ gemspec
 # Gemfile
 
 gem 'jekyll-ftp'
+gem 'github-pages'
