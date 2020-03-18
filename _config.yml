@@ -4,7 +4,7 @@ author: AI Adventures # You :P
 description: > # Meta description of Homepage
   Start solving real world applications by applying Data Science in this 
    workshop on Data Science with python :)
-baseurl: "/mitwpu" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 # SEO PLUGIN
