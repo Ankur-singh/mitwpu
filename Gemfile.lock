@@ -76,7 +76,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12, >= 2.0.2)
+  bundler (~> 2.0.2)
   jekyll-ftp
   jekyll-sleek!
   rake (~> 10.0)
